@@ -9,4 +9,4 @@ def cp_even_line(filename, newfile):
         w.write(str(i) + '\n')
     return 'Done'
 
-cp_even_line('d = {}
+cp_even_line(f1,f2)
